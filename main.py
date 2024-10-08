@@ -1,15 +1,5 @@
 from math import sqrt
-
-#### Fonction secondaire
-
-
-def isprime(p):
-
-    # votre code ici
-
-    pass
-
-#### Fonction principale
+from primes import isprime
 
 
 def main():
